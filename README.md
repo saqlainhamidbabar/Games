@@ -1,0 +1,2 @@
+# Games
+small mathematical games
