@@ -1,5 +1,3 @@
-# Games
-small mathematical games
 #include <iostream>
 //game for guess a number
 using namespace std;
